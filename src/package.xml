@@ -68,10 +68,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>CleanDataService</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Community</name>
     </types>
     <types>
@@ -131,7 +127,6 @@
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
-        <members>Idea</members>
         <members>Lead</members>
         <members>Macro</members>
         <members>MacroAction</members>
@@ -152,8 +147,6 @@
         <members>SOSSession</members>
         <members>SOSSessionActivity</members>
         <members>Site</members>
-        <members>SocialPersona</members>
-        <members>SocialPost</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
@@ -161,8 +154,6 @@
         <members>UserProvisioningRequest</members>
         <members>WorkBadge</members>
         <members>WorkBadgeDefinition</members>
-        <members>WorkOrder</members>
-        <members>WorkOrderLineItem</members>
         <members>WorkThanks</members>
         <name>CustomObject</name>
     </types>
@@ -401,12 +392,10 @@
         <members>Order</members>
         <members>ProfileSkill</members>
         <members>SOSSession</members>
-        <members>SocialPost</members>
         <members>StreamingChannel</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <members>WorkBadgeDefinition</members>
-        <members>WorkOrder</members>
         <members>WorkThanks</members>
         <name>SharingRules</name>
     </types>
@@ -450,7 +439,6 @@
         <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
-        <members>Idea</members>
         <members>Lead</members>
         <members>Macro</members>
         <members>MacroAction</members>
@@ -467,8 +455,6 @@
         <members>SOSSession</members>
         <members>SOSSessionActivity</members>
         <members>Site</members>
-        <members>SocialPersona</members>
-        <members>SocialPost</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
@@ -477,8 +463,6 @@
         <members>UserProvisioningRequest</members>
         <members>WorkBadge</members>
         <members>WorkBadgeDefinition</members>
-        <members>WorkOrder</members>
-        <members>WorkOrderLineItem</members>
         <members>WorkThanks</members>
         <name>Workflow</name>
     </types>
